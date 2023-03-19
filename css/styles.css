@@ -99,7 +99,7 @@ body {
 
 .content{ 
 	background-color: #fff;  
-	height: 600px;
+	height: 720px;
 } 
 
 .content .container{    
@@ -159,4 +159,56 @@ padding-top: 37px;
     right: 15%;
     bottom: -94px;
     z-index: 1;
+}
+.service{
+    padding-top: 241px;
+    padding-bottom: 106px;
+}
+.container .nadpis{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+}
+.tekst{
+    margin-bottom: 90px;
+    text-align: center;
+}
+h3{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #191d34;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 20px;
+}
+.tekst p1{
+    font-size: 16px;
+    line-height: 30px;
+    color: #909092;
+    font-weight: 400;
+    margin-bottom: 13px;
+    font-family: "Open Sans", sans-serif;
+}
+.content-center{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.one{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.service .pervoe{
+    padding: 70px 25px 65px 25px;
+    border: 1px solid #ffc5c2;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
 }
